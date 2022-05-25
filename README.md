@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 <!--
 **nether-m/nether-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
